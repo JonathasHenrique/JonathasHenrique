@@ -13,7 +13,7 @@
 
 ### 🚀 Sobre Mim
 
-- 💻 **Desenvolvedor de Software** com foco em aplicações móveis (Android), desktop (Linux) e soluções web de alta confiabilidade.
+- 💻 **Desenvolvedor de Software** com foco em aplicações desktop (Linux e Windows com Rust & Tauri v2), móveis (Android com Kotlin) e soluções web de alta confiabilidade.
 - 🛠️ **Foco Prático**: Desenvolvo soluções de código aberto pensadas para o dia a dia de igrejas, ministérios de louvor, equipes de mídia e voluntários.
 - 📺 **Criador de Conteúdo**: No canal **[John TechDicas no YouTube](https://www.youtube.com/@johntechdicas)**, compartilho tutoriais diretos ao ponto, dicas de tecnologia e demonstrações das ferramentas que construo.
 - 🎯 **Compromisso**: Software estável, livre de complexidades operacionais desnecessárias e com máxima utilidade prática.
@@ -24,7 +24,16 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3 align="center">⛪ Altaris Presenter</h3>
+      <p align="center"><b>Projeção, Retorno de Palco & OBS Studio</b></p>
+      <p>Software livre profissional para igrejas construído em Rust e Tauri v2 (&lt;50MB RAM): Telão 16:9 em 4K, retorno de palco com cifras ao vivo, overlay transparente para OBS Studio, controle remoto no celular via QR Code e Bíblia visual de 1 clique.</p>
+      <p align="center">
+        <a href="https://github.com/JonathasHenrique/altaris-presenter"><b>Ver Repositório</b></a> • 
+        <a href="https://github.com/JonathasHenrique/altaris-presenter/releases/latest"><b>Baixar App</b></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
       <h3 align="center">🔴 LiveinFé</h3>
       <p align="center"><b>Transmissão Ministerial para o YouTube</b></p>
       <p>Aplicativo Android nativo em Kotlin desenvolvido para congregações transmitirem cultos com 1 toque, enquadramento 16:9 OpenGL sem distorções, Foreground Service anti-quedas, áudio para mesa de som via USB OTG e taxa de bits adaptativa (ABR).</p>
@@ -33,7 +42,7 @@
         <a href="https://github.com/JonathasHenrique/liveinfe/releases/latest"><b>Baixar APK</b></a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">🎸 Bíblia do Instrumentista</h3>
       <p align="center"><b>Afinador, Harpa Cristã Cifrada & Bíblia ACF</b></p>
       <p>Ecossistema completo para músicos e ministros de louvor com funcionamento 100% offline: Afinador YIN de alta precisão (violão e baixo), hinário completo da Harpa Cristã com cifras transponíveis e partituras, e Bíblia Sagrada integral para Linux e Android.</p>
@@ -51,6 +60,8 @@
 
 <div align="center">
 
+![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
+![Tauri](https://img.shields.io/badge/Tauri_v2-24C8DB?style=flat-square&logo=tauri&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
